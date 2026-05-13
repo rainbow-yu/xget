@@ -31,7 +31,6 @@ export const PLATFORM_CATALOG = {
   aosp: 'https://android.googlesource.com',
   hf: 'https://huggingface.co',
   civitai: 'https://civitai.com',
-  chromedriver: 'https://storage.googleapis.com',
 
   // Package Managers
   npm: 'https://registry.npmjs.org',
